@@ -1,4 +1,6 @@
 # robot-framework-frontend-tests
+in order to properly use these tests locally you will need to install robotframework and selenium2library
+
 basic frontend UI tests for post-dev QA testing
 
 at the moment this is written only for chrome, but the resource file could easily be edited or
